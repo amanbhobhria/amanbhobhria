@@ -3,18 +3,15 @@ Hi, I'm Aman Bhobhria, an Android developer with a strong foundation in C, C++, 
 
  Skills and Expertise
 
-- Programming Languages:** C, C++, Java, Kotlin
-- Android Technologies:** Firebase, Retrofit, Glide, Picasso, Material Design Components, MVVM, LiveData, Navigation Component, ViewModel, Room Database, WorkManager, Hilt/Dagger
-- Tools and Platforms:** Android Studio, Git, Firebase Console
+- Programming Languages: C, C++, Java, Kotlin
+- Android Technologies: Firebase, Retrofit, Glide, Picasso, Material Design Components, MVVM, LiveData, Navigation Component, ViewModel, Room Database, WorkManager, Hilt/Dagger
+- Tools and Platforms: Android Studio, Git, Firebase Console
 
-# Projects
 
-# BYC SALOON App
-I developed the BYC SALOON app individually for a startup, showcasing my abilities in freelance Android app development using Java and Kotlin. The app is designed to streamline salon services, allowing users to book salon stylists, opt for home services, and select various salon facilities and services. Integrated with the Razorpay payment gateway, it also includes an admin interface for managing bookings and services, and a salon partner app for appointment management.
 
-## Professional Experience
+#Professional Experience
 
-- **Freelancing in Android App Development:** Worked on multiple freelance projects, delivering high-quality Android applications tailored to clients' needs.
+- Freelancing in Android App Development:** Worked on multiple freelance projects, delivering high-quality Android applications tailored to clients' needs.
 
 # More About Me
 
