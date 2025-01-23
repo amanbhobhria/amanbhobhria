@@ -14,7 +14,8 @@ Hi, I'm Aman Bhobhria, an Android developer with a strong foundation in C, C++, 
 - Freelancing in Android App Development:** Worked on multiple freelance projects, delivering high-quality Android applications tailored to clients' needs.
 - SIRCL TECH PVT LTD - 1 Year
 - Proem Sports Contract Based - 2 Months
-- Clikzop Innovations - July - Present
+- Clikzop Innovations - July - November
+- Toxsl Technologies - Dec - Present
   
   
 
